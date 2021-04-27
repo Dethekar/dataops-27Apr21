@@ -1,0 +1,1 @@
+adding some notes to README for training
